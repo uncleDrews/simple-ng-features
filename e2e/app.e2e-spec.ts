@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular-shorten-pipe App', () => {
+describe('angular-shared App', () => {
   let page: AppPage;
 
   beforeEach(() => {
